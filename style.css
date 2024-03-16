@@ -3,7 +3,7 @@ body {
 }
 
 #gameCanvas {
-    background-image: url("./Mapa de juego.png");
+    background-image: url("./images/game map.png");
     position: absolute;
     top: 50%;
     left: 50%;
